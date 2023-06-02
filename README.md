@@ -5,7 +5,7 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/walefxavier/">
-      <img alt="Henrique Tavares" src="https://img.shields.io/badge/-Walef Xavier-ED8936?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Walef Xavier" src="https://img.shields.io/badge/-Walef Xavier-ED8936?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-ED8936">
